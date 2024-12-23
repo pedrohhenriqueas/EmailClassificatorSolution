@@ -101,7 +101,3 @@ The model is evaluated using metrics such as accuracy, precision, recall, and F1
 
 Contributions to this project are welcome! Feel free to open issues and pull requests.
 
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
